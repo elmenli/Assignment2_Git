@@ -1,1 +1,2 @@
 This project is a Git and GitHub practice assignment.
+This line was added directly from GitHub.
